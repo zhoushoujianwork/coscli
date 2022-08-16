@@ -1,4 +1,4 @@
-module coscli
+module github.com/zhoushoujianwork/coscli
 
 go 1.16
 
