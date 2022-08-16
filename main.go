@@ -16,10 +16,10 @@ limitations under the License.
 package main
 
 import (
-	"coscli/cmd"
+	"github.com/zhoushoujianwork/coscli"
 )
 
 func main() {
 
-	cmd.Execute()
+	coscli.cmd.Execute()
 }
